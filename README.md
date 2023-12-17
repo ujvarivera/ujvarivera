@@ -3,7 +3,7 @@
 - :woman_technologist: Web & Software Developer
 - :mortar_board: Learned Business Informatics at University of Sopron (BSc)
 - :rocket: I always like to learn new things and expand my knowledge
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ujvarivera-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ujvári-veronika-586119225)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ujvarivera-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ujv%C3%A1ri-veronika-586119225)
 
 ## :hammer_and_wrench: Used Languages and Tools
 
