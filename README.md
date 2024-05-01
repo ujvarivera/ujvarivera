@@ -1,6 +1,6 @@
-# Hi :wave: I'm Veronika
+# Hi :wave: I'm Vera
 
-- :woman_technologist: Web & Software Developer
+- :woman_technologist: Junior Web Developer | Laravel, React.js
 - :mortar_board: Learned Business Informatics at University of Sopron (BSc)
 - :rocket: I always like to learn new things and expand my knowledge
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ujvarivera-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ujv%C3%A1ri-veronika-586119225)
